@@ -1,0 +1,6 @@
+id,name,role,city,specialty,status
+1,Ahmed,Conducteur,Taroudant,Mécanique générale,Disponible
+2,Youssef,Technicien,Agadir,Diagnostic automobile,Disponible
+3,Omar,Technicien,Taroudant,Électricité automobile,Occupé
+4,Salma,Expert automobile,Agadir,Expertise automobile,Disponible
+5,Hassan,Technicien,Marrakech,Freins et suspension,Disponible
